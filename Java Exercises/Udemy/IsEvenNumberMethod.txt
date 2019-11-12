@@ -1,0 +1,15 @@
+public class Main {
+
+    public static void main(String[] args) {
+
+        System.out.println(isEvenNumber(23));
+
+    }
+    public static boolean isEvenNumber(int x){
+
+        if(x%2 == 0)
+            return true;
+        else
+            return false;
+    }
+}
