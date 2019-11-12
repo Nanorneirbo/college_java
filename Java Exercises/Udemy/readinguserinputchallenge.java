@@ -1,5 +1,6 @@
-port javax.sound.midi.Soundbank;
 import java.util.Scanner;
+
+port javax.sound.midi.Soundbank;
 
 public class Main {
 
